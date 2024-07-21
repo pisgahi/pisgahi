@@ -1,4 +1,4 @@
-# Hi, I'm Pisgah
+# Pisgah
 
 * 🌐 Web Dev
 * 🏡 [My website](https://pisgahi.com/)
