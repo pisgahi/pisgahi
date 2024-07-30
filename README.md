@@ -1,5 +1,5 @@
 # Pisgah
 
 * 🌐 Web Dev
-* 🏡 [My website](https://pisgahi.com/)
+* 🏡 [Website](https://pisgahi.com/)
 
