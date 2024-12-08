@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Pisgah</h1>
+<h1>Hi, I'm Pisgah</h1>
 
 - 🔭 Currently working on    **Concernum**
 
