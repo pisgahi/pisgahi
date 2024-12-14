@@ -2,7 +2,7 @@
 
 - 🔭 Currently working on    **Concernum**
 
-- 🌐 Looking to collaborate on **GovStart**
+- 🌐 Looking to collaborate on **Goventer**
 
 - ⚡ Fun fact: I've been to three continents in one day!
 
